@@ -1,0 +1,27 @@
+:page-name: Sarah Chen
+:page-linkedin: sarah-chen-dev
+:page-twitter: sarahcodes
+:page-github: sarahchen
+:page-email: sarah@example.com
+:page-image: avatar/sarah-chen.png
+:page-pronouns: She/Her
+:page-location: Singapore
+:page-firstcommit: 2020
+:page-datepublished: 2026-01-15
+:page-intro: Sarah Chen is a DevOps engineer passionate about cloud infrastructure and automation. She actively contributes to open-source CI/CD tools and enjoys improving developer workflows.
+
+= Sarah Chen
+
+Sarah started her journey as a backend developer but gradually moved into DevOps and infrastructure engineering. She has worked extensively with Kubernetes, Docker, and Jenkins pipelines.
+
+== What is your background prior to contributing to Jenkins?
+
+Before contributing to Jenkins, Sarah worked in a fast-paced startup environment where she built scalable backend systems and automated deployment pipelines.
+
+== How long have you been using Jenkins?
+
+She has been using Jenkins since 2019 and has contributed to improving pipeline performance and plugin integrations.
+
+== What do you enjoy about contributing?
+
+Sarah enjoys solving real-world problems and collaborating with a global open-source community.

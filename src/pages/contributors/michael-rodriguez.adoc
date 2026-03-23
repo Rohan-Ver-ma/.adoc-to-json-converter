@@ -1,0 +1,35 @@
+:page-name: Michael Rodriguez
+:page-linkedin: michael-rodriguez-dev
+:page-twitter: mike_codes
+:page-github: mrodriguez
+:page-email: michael.rodriguez@example.com
+:page-image: avatar/michael-rodriguez.png
+:page-pronouns: He/Him
+:page-location: Barcelona, Spain
+:page-firstcommit: 2018
+:page-datepublished: 2026-02-10
+:page-intro: Michael Rodriguez is a DevOps engineer and open-source contributor specializing in CI/CD pipelines, automation, and cloud infrastructure. He enjoys improving developer workflows and building scalable systems.
+
+= Michael Rodriguez
+
+Michael started his career as a backend developer and gradually transitioned into DevOps. Over the years, he has worked extensively with Jenkins, Docker, Kubernetes, and cloud platforms like AWS and GCP. He enjoys solving infrastructure challenges and optimizing deployment pipelines.
+
+== What is your background prior to contributing to Jenkins?
+
+Before contributing to Jenkins, Michael worked at a fintech startup where he was responsible for backend services and deployment automation. He built CI/CD pipelines from scratch and improved release cycles significantly.
+
+== How long have you been using Jenkins?
+
+Michael has been using Jenkins since 2017. Over time, he has contributed to pipeline optimization and plugin integrations.
+
+== What made you choose Jenkins over other projects?
+
+He chose Jenkins because of its flexibility and strong plugin ecosystem, which allowed him to customize pipelines according to project needs.
+
+== What is your favorite feature of Jenkins?
+
+Michael particularly likes Jenkins pipelines and the ability to define infrastructure as code, which makes automation more maintainable and scalable.
+
+== What advice would you give to new contributors?
+
+He recommends starting small, understanding the project structure, and gradually contributing to documentation or small fixes before moving to complex features.

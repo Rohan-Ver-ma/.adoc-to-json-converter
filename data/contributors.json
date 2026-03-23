@@ -1,0 +1,60 @@
+[
+  {
+    "slug": "michael-rodriguez",
+    "name": "Michael Rodriguez",
+    "github": "mrodriguez",
+    "linkedin": "michael-rodriguez-dev",
+    "twitter": "mike_codes",
+    "location": "Barcelona, Spain",
+    "firstcommit": "2018",
+    "image": "avatar/michael-rodriguez.png",
+    "intro": "Michael Rodriguez is a DevOps engineer and open-source contributor specializing in CI/CD pipelines, automation, and cloud infrastructure. He enjoys improving developer workflows and building scalable systems.",
+    "qa": [
+      {
+        "question": "What is your background prior to contributing to Jenkins?",
+        "answer": "Before contributing to Jenkins, Michael worked at a fintech startup where he was responsible for backend services and deployment automation. He built CI/CD pipelines from scratch and improved release cycles significantly."
+      },
+      {
+        "question": "How long have you been using Jenkins?",
+        "answer": "Michael has been using Jenkins since 2017. Over time, he has contributed to pipeline optimization and plugin integrations."
+      },
+      {
+        "question": "What made you choose Jenkins over other projects?",
+        "answer": "He chose Jenkins because of its flexibility and strong plugin ecosystem, which allowed him to customize pipelines according to project needs."
+      },
+      {
+        "question": "What is your favorite feature of Jenkins?",
+        "answer": "Michael particularly likes Jenkins pipelines and the ability to define infrastructure as code, which makes automation more maintainable and scalable."
+      },
+      {
+        "question": "What advice would you give to new contributors?",
+        "answer": "He recommends starting small, understanding the project structure, and gradually contributing to documentation or small fixes before moving to complex features."
+      }
+    ]
+  },
+  {
+    "slug": "sarah-chen",
+    "name": "Sarah Chen",
+    "github": "sarahchen",
+    "linkedin": "sarah-chen-dev",
+    "twitter": "sarahcodes",
+    "location": "Singapore",
+    "firstcommit": "2020",
+    "image": "avatar/sarah-chen.png",
+    "intro": "Sarah Chen is a DevOps engineer passionate about cloud infrastructure and automation. She actively contributes to open-source CI/CD tools and enjoys improving developer workflows.",
+    "qa": [
+      {
+        "question": "What is your background prior to contributing to Jenkins?",
+        "answer": "Before contributing to Jenkins, Sarah worked in a fast-paced startup environment where she built scalable backend systems and automated deployment pipelines."
+      },
+      {
+        "question": "How long have you been using Jenkins?",
+        "answer": "She has been using Jenkins since 2019 and has contributed to improving pipeline performance and plugin integrations."
+      },
+      {
+        "question": "What do you enjoy about contributing?",
+        "answer": "Sarah enjoys solving real-world problems and collaborating with a global open-source community."
+      }
+    ]
+  }
+]
